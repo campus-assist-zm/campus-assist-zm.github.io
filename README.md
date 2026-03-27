@@ -3,4 +3,4 @@
 Ebooks (study guides & more)\
 Assignment typing\
 Proofreading and editing\
-Reviewing work before submission\
+Reviewing work before submission
